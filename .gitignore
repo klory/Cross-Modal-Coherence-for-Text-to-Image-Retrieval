@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints/
+feats/
+models/
+outputs/
+runs/
+runs_cite/
+runs_clue/
+wandb/
+*.jpg
+data/conceptual/images/*
